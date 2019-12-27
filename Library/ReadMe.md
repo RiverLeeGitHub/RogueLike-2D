@@ -1,3 +1,3 @@
 Note: 
 
-Since the original /Library contains big files that cannot be upload to GitHub, the files in this folder will be overlooked.
+Since the original /Library contains big files that cannot be upload to GitHub, the files in this folder has been overlooked.
